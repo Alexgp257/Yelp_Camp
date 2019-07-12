@@ -1,0 +1,31 @@
+.thumbnail img {
+	width: 100%;
+}
+
+.thumbnail {
+	padding: 0;
+}
+
+.thumbnail .caption-full {
+	padding: 9px;
+}
+
+#delete-form {
+	display: inline;
+}
+
+#comment-form {
+	margin-top: 15px;
+}
+
+#comment-form form {
+	display: flex;
+}
+
+#map {
+	width: 100%;
+	height: 400px;
+}
+#comment-form form input {
+	width: 85%;
+} 
